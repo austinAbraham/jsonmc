@@ -1,19 +1,22 @@
 {
-  "name": "Star Wars: Episode VI - Return of the Jedi",
+  "name": "Star Wars:Episode VI- Return of the Jedi",
   "year": 1983,
   "runtime": 131,
-  "categories": [
+  "categories": 
+  [
     "action",
     "adventure",
     "sci-fi"
   ],
   "release-date": "1983-05-25",
   "director": "Richard Marquand",
-  "writer": [
+  "writer": 
+  [
     "Lawrence Kasdan",
     "George Lucas"
   ],
-  "actors": [
+  "actors": 
+  [
     "Mark Hamill",
     "Harrison Ford",
     "Carrie Fisher"
